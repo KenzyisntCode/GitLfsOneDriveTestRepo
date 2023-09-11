@@ -1,0 +1,2 @@
+# GitLfsOneDriveTestRepo
+GithubのLFSの転送先をOneDriveに指定する検証を行うリポジトリ
